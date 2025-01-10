@@ -1,3 +1,6 @@
+
+/*Basic code to print the corresponding block IDs and thread IDs that are being processed at the moment.*/
+
 #include <stdio.h>
 
 __global__ void ids(void) {
