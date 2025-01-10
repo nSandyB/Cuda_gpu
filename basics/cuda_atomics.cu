@@ -1,3 +1,6 @@
+
+/* Exploring atomics in CUDA */
+
 #include <cuda_runtime.h>
 #include <stdio.h>
 
